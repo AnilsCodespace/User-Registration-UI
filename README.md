@@ -1,4 +1,4 @@
-# registrationpage
+# User Registration UI
 ![image](https://user-images.githubusercontent.com/87460435/200156320-5f43dc2f-bfc8-414a-8848-ae03c5f1d945.png)
 
 A new Flutter project.
